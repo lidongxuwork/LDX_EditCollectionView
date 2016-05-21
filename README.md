@@ -1,6 +1,8 @@
 # Register-Login-PHP
 暂时只支持一种Cell类型, 并且在iOS8以上,  封装了一个自定义可编辑Cell的UICollectionView, 内部逻辑已经完全封装好了, 用户只需要用这个UICollectionView对象, 自己创建UICollectionViewCell, 还可以自己设置选中和未选中按钮的图片, 尺寸, 透明度, 圆不圆形等, 当然了, 也可以利用接口, 自己去写3个按钮. 或者看我的源码自己去修改相应功能! 第一次发作品. 如有不足还望指教!!
 
+![](http://upload-images.jianshu.io/upload_images/1400788-3a4e213c38b7bb71.gif?imageMogr2/auto-orient/strip)
+
 #具体用法: 
 <pre>
 //warning 1. 创建对象, 设置editDelegate代理人
